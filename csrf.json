@@ -2,7 +2,7 @@
     "flags": "-iE",
      "patterns": [
 
-         "createuser=",
+        "createuser=",
         "reset_password=",
         "resetpassword=",
         "setusername=",
