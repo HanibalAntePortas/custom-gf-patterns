@@ -1,2 +1,2 @@
-# 🔥Custom-gf-patterns
+# 🔥Custom-GF-patterns
 Custom GF patterns by kljunowsky.
